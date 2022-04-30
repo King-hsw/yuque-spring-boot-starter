@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "yuque.token",
+      "type": "java.lang.String",
+      "description": "个人Token"
+    }
+  ]
+}
